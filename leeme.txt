@@ -2,4 +2,8 @@
 2- esto es la prueba de la modificación de un archivo
 3- voy a modificar el archivo
 4- modifico de nuevo el archivo
+<<<<<<< HEAD
 5- cambio 18:32
+=======
+5- cambio 16:00
+>>>>>>> 5107040ed7631ff63c8173f2c5996e97e3bcb38a
